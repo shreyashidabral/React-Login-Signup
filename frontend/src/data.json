@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Shreyashi",
+    "email": "shreyashi@gmail.com",
+    "dob": "05-08-1996"
+  },
+  {
+    "id": 2,
+    "name": "Shrey",
+    "email": "shrey@gmail.com",
+    "dob": "02-03-1896"
+  },
+  {
+    "id": 1,
+    "name": "Yashi",
+    "email": "yashi@gmail.com",
+    "dob": "03-08-1396"
+  },
+  {
+    "id": 1,
+    "name": "Shreyash",
+    "email": "shreyash@gmail.com",
+    "dob": "02-01-2002"
+  }
+]
